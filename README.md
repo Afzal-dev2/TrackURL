@@ -1,2 +1,2 @@
 # TrackURL
-an App which tracks where the shortened URL gets redirected
+An App which tracks where the shortened URL gets redirected
